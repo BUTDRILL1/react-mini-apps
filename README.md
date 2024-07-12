@@ -30,8 +30,8 @@ To get a copy of this repository up and running on your local machine, follow th
 3. Install Dependencies:
     ```bash
     npm i
-    Better use --force or --legacy-peer-deps to download conflicting modules.
+- **Better use --force or --legacy-peer-deps to download conflicting modules.**
     
 ## License
-    This project is licensed under the MIT License. See the LICENSE file for details.
-    This model is provided under a free license but is restricted from commercial use.
+- **This project is licensed under the MIT License. See the LICENSE file for details.**
+- **This model is provided under a free license but is restricted from commercial use.**
