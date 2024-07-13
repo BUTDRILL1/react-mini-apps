@@ -21,7 +21,7 @@ To get a copy of this repository up and running on your local machine, follow th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-mini-apps.git
+   git clone https://github.com/BUTDRILL1/react-mini-apps.git
 
 2. Navigate to the desired folder:
     ```bash
@@ -33,5 +33,4 @@ To get a copy of this repository up and running on your local machine, follow th
 - **Better use --force or --legacy-peer-deps to download conflicting modules.**
     
 ## License
-- **This project is licensed under the MIT License. See the LICENSE file for details.**
 - **This model is provided under a free license but is restricted from commercial use.**
